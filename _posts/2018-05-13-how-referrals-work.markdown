@@ -1,6 +1,10 @@
 ---
 
 
+layout: post
+title:  "How referrals work."
+date:   2018-05-13 08:39;39 +0500
+categories: industry info 
 ---
 
 So I felt there is justified confusion regarding how referrals work in the top tech companies and I wanted to clear it up a bit. 
