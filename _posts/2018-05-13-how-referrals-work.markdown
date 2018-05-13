@@ -3,7 +3,7 @@
 
 layout: post
 title:  "How referrals work."
-date:   2018-05-13 08:39;39 +0500
+date:   2018-05-13 08:39:39 +0500
 categories: industry info 
 ---
 
