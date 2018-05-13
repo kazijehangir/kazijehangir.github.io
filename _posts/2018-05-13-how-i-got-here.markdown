@@ -9,7 +9,7 @@ I have been meaning to write this for a long long time. I never got around to it
 
 Treat this as a rambling story of my last two years at LUMS and what I wish I had done differently or treat it as whatever I have learnt and wish more people knew. Following this is entirely up to you.
 
-A rough timeline of events.
+<h2> A rough timeline of events. </h2>
 
 * Fall 2015 - Sophomore year.
 
@@ -44,6 +44,12 @@ A rough timeline of events.
 * Summer 2017 - Google Internship.
 
  My first time out of Pakistan. My first time working at a company. My first time being a Noogler.
+
+ * Fall 2017 - Senior year.
+ I got a job offer from Google Japan around December 2017. I will be joining the Tokyo office in August 2018.
+
+<h2> Other thoughts (make this better) </h2>
+
 
 
 
