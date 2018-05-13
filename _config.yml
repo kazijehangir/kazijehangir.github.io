@@ -11,7 +11,7 @@ email: kazijehangir@gmail.com # change this when private email is feasible.
 description: > # this means to ignore newlines until "baseurl:"
   Jehangir Kazi. A pretty big head and some thoughts to fill it.
   To-be-Googler. 
-  He was a dreamer, a thinker, a speculative philosopher... or, as his wife would have it, an idiot.
+  "He was a dreamer, a thinker, a speculative philosopher... or, as his wife would have it, an idiot."
   - Douglas Adams
 
 baseurl: "" # the subpath of your site, e.g. /blog
