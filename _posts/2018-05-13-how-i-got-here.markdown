@@ -46,6 +46,7 @@ Treat this as a rambling story of my last two years at LUMS and what I wish I ha
  My first time out of Pakistan. My first time working at a company. My first time being a Noogler.
 
  * Fall 2017 - Senior year.
+ 
  I got a job offer from Google Japan around December 2017. I will be joining the Tokyo office in August 2018.
 
 <h2> Other thoughts (make this better) </h2>

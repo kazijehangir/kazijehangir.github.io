@@ -26,6 +26,8 @@ That said, I wanted to give a quick rundown of what I know about the interview p
  This is usually just a very preliminary weeding out process. Take a look at Google Code Jam questions for some examples and a basic idea of the difficulty level. You typically get 2 questions and 2+ hours to solve them. I beleive most people with reasonable programming skills should be able to solve these questions. If you cannot solve these in 2 hours without the pressure of an actual interview, you really need to brush up your programming/problem solving skills.
 
 - Technical interviews (2 for internship, 4/5 for full time) 
+ 
+ This is the most important step of the entire process, and the one most people fail at. 
 
 - Team matching 
 
