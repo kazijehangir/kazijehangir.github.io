@@ -1,40 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>The Curly Haired Guide to Curiosity</title>
+    <description>Jehangir Kazi. A pretty big head and some thoughts to fill it.
+To-be-Googler. 
+&quot;I love deadlines, I like the wooshing sound they make as they go by.&quot; - Douglas Adams
 </description>
-    <link>http://jehangir.me/blog/</link>
-    <atom:link href="http://jehangir.me/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Jan 2017 18:26:13 +0500</pubDate>
-    <lastBuildDate>Fri, 06 Jan 2017 18:26:13 +0500</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://jehangir.me/</link>
+    <atom:link href="http://jehangir.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 27 May 2018 04:57:07 +0500</pubDate>
+    <lastBuildDate>Sun, 27 May 2018 04:57:07 +0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>BloodHub</title>
+        <description>&lt;p&gt;This was my semester project for CS466: Human Computer Interaction. We have designed a platform to allow blood donors to connect with seeker, while making the interaction efficient, the process effective, and the experience enjoyable.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/kazijehangir/bloodhub&quot;&gt;Github repo&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 May 2018 04:44:44 +0500</pubDate>
+        <link>http://jehangir.me/projects/android-app/2018/05/27/bloodhub.html</link>
+        <guid isPermaLink="true">http://jehangir.me/projects/android-app/2018/05/27/bloodhub.html</guid>
+        
+        
+        <category>projects</category>
+        
+        <category>android-app</category>
+        
+      </item>
+    
+      <item>
+        <title>How technical interviews work.</title>
+        <description>&lt;p&gt;There is a lot of information out there regarding technical interviews and these guides are much better at advice than I can ever give. The main one I can recommend is “Cracking the Coding Interview”; it is an invaluable resource while preparing for these interviews.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;That said, I wanted to give a quick rundown of what I know about the interview process based on personal experience.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h2&gt; The overall process &lt;/h2&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Automated resume screening&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most people will apply online to these companies and submit their resume for an automatic review process. People suggest that using a difficult to understand format (for a machine) for your resume is a bad idea. There is probably some keyword matching and some ML thrown in there. Regardless, I dont think there is much you can do to optimize your resume for this step. Make a good resume (for a human reviewer) and that should be good enough for the algorithm as well.&lt;/p&gt;
+
+&lt;p&gt;If you can get a referral into the company, you can skip this step altogether. Take a look at my post about &lt;a href=&quot;/blog/industry/info/2018/05/13/how-referrals-work.html&quot;&gt;how referrals work&lt;/a&gt; for a detailed explaination.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Recruiter resume screening&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Similar to the above, having an objectively good resume is the way to go here. Look up some guides on good resume practices. Take a look at eye movement heat maps for recruiters, it really puts things into perspective.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Online test/quiz&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is usually just a very preliminary weeding out process. Take a look at Google Code Jam questions for some examples and a basic idea of the difficulty level. You typically get 2 questions and 2+ hours to solve them. I beleive most people with reasonable programming skills should be able to solve these questions. If you cannot solve these in 2 hours without the pressure of an actual interview, you really need to brush up your programming/problem solving skills.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Technical interviews (2 for internship, 4/5 for full time)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is the most important step of the entire process, and the one most people fail at. I feel there is no subsitute for practice through actual interviews and mock interviews for this. No amount of coding problems or programming competitions will prepare you for ‘interviewing’ well. For that you need to be comfortable not only approaching the problem well and solving it, but also speaking out loud all through it.&lt;/p&gt;
+
+&lt;p&gt;Remember the process of solving a problem is more important than the actual solution to the interviewer. They already checked that you can solve programming problems in the online quiz. Now they are trying to judge you on a different scale. If you stay quiet for 5-10 miutes and come up with the optimal solution, the interviewer will probably not be impressed. What’s better is to spend 10-15 minutes discussing the problem at hand and possible solution with the interviewer and making sure you get to the solution with the interviewer in tow, not just inform them when you are done.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, a good set of mock interviews early enough should tell you about your weak areas and you can work on them. I can only give a general set of tips on stuff that I feel people commonly miss out on.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A interview can have one or two questions. Often there is one standard programming question and then one system design question (sometimes this is skipped for interns). In other cases, the interviewer will give you a simple question and then once you’re done with it, they will introduce some special case or variation to see how you adapt to changing requirements. Learn to properly judge which kind of question the interviewer is asking and time yourself correctly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Related to the above, don’t lose track of time. That doesn’t mean that you keep freaking out about the ticking clock, but don’t keep talking and talking until there are 5 minutes left in the interview.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set a time limit to when you will begin writing code. Judge how much time the interviewer expects you to spend on a question (see above), and spend at most 30-40 percent  discussing possible solutions. For example, in a 1 hour interview if you feel the question is 30 minutes long, decide to start writing code on the board at the 10 minutes mark. Expect to spend 10 minutes writing code, and then 10 more minutes running tests and discussing runtime.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Don’t jump to the best/optimal solution immediately. Even if you know what the best solution is, it’s best to mention the brute force or suboptimal solutions (no matter how obvious they seem to you), and then quickly also tell them why you rejected those. That will tell the interviewer you know exactly why the solution you come up with is the best.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;That said, if you can’t come up with a solution you think is optimal, don’t waste all the interview discussing/thinking about it. An implemented suboptimal solution is many times better than a unimplemented optimal one.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If on a board, write down the question/details as the interviewer tells you. Write down everything you think is important. Learn to ask questions that will define the problem more, for example if the input will only be integers, the ranges etc. This will give you time where you can keep talking slightly ‘mindlessly’ and you can think in advance about the solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write down test cases before anything else. No need to write working code for test cases. Stuff like foo(“input”) =&amp;gt; “expected_output” is completely fine. This will ensure you have a starting point for the logic as well as ensure that you and the interviewer are on the same page regarding the problem.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write down test cases for each corner case. I cannot emphasise how important good test cases are. Writing test cases first and dry running them before telling the interviewer you are done will automatically put you ahead of most people. Interviewers love Test-Driven-Developement.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Practice talking out loud when thinking about the problem at the same time. Most people are used to being left alone and staring at the screen in silence and then comng up with a solution. That doesn’t work in an interview. Don’t be silent for more than 5-7 seconds. Even when writing code keep talking about what it does. Bonus points if you relate it to the test cases you wrote in the start, for example “This if condition handles the base case tested in that test case…”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start running the test cases on your own when you feel you are done. Don’t wait for the interviewer to tell you to test your code. The same goes for runtime. Once you are done with the test cases, discuss the runtime (talk with the interviewer and take him through how you figure out the runtime for your solution), and then write it down in Big-O notation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If the interviewer says ANYTHING when you are writing the code or discussing test cases or possible solutions, take careful note of it. Nothing an interviewer says is useless. It is more often than not a carefully thought out comment to point out some mistake or to nudge you in the correct direction.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you are completely blank and cannot think of any solution, starting running the problem through the data structures you know and try to find if there is any which has a special property which makes the solution obvious. Most problems are actually just applying the proper data structure.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Team matching&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is the good part. You have cleared the technical interviews and are deemed fit for hire by the company. Now you will be added to the pool of accepted candidates and team with open positions can review your interests/skills and contact you for a chat if they think there’s a match.&lt;/p&gt;
+
+&lt;p&gt;How many teams you are contacted by/can talk to depends on the office you are applying to. A bigger office means you get more choice with deciding. Sometimes you only get one shot at a team matching interview, so don’t be too picky, but don’t sign up to work with a team you absolutely have nothing in common with.&lt;/p&gt;
+
+&lt;p&gt;This step might be skipped if you are converting from an intern position to full time and your team specifically requested to hire you, or if you were hand picked from the industry for a specific team.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Offer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Congratulations, it is time for offer. Once a team has agreed to hire you, and you have indicated that you want to join them as well, your recruiter will discuss the offer with you. There is room for negotiations, but it depends a lot on your background and other competing offers. If you are a fresh grad with no other competing offers from a similar big company, you don’t have much room for negotiation.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 May 2018 03:50:27 +0500</pubDate>
+        <link>http://jehangir.me/blog/lums/advice/2018/05/14/how-technical-interviews-work.html</link>
+        <guid isPermaLink="true">http://jehangir.me/blog/lums/advice/2018/05/14/how-technical-interviews-work.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>LUMS</category>
+        
+        <category>advice</category>
+        
+      </item>
+    
+      <item>
+        <title>How referrals work.</title>
+        <description>&lt;p&gt;So I felt there is justified confusion regarding how referrals work in the top tech companies and I wanted to clear it up a bit.&lt;/p&gt;
+
+&lt;p&gt;But before that, just a disclaimer that this is true to the best of my knowledge and is my experience. Your experience might be different and if so, feel free to contact me to correct anything.&lt;/p&gt;
+
+&lt;p&gt;In Google the hiring process is something like: Automated resume screening -&amp;gt; Recruiter resume screening -&amp;gt; online test/quiz -&amp;gt; technical interviews (2 for internship, 4/5 for full time) -&amp;gt; team matching -&amp;gt; offer.
+Note the online quiz might be skipped in some circumstances, but is usually conducted for fresh graduates.&lt;/p&gt;
+
+&lt;p&gt;Now what an employee referral does for you is guarantee that a recruiter will take a look at your resume. This means that the automatic screening stop is skipped and you don’t need to worry about gaming the stem with keywords etc. It also gives a chance to people from universities that usually don’t get noticed by the system. It also usually means you’ll get to the online quiz stage as it it’s a low cost/low false negatives step for the company.&lt;/p&gt;
+
+&lt;p&gt;The referral however does not mean you have easier interviews or anything like that. It just gives you a level playing field with people from prestigious universities who clear the automated step anyways.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 May 2018 08:39:39 +0500</pubDate>
+        <link>http://jehangir.me/blog/industry/info/2018/05/13/how-referrals-work.html</link>
+        <guid isPermaLink="true">http://jehangir.me/blog/industry/info/2018/05/13/how-referrals-work.html</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>industry</category>
+        
+        <category>info</category>
+        
+      </item>
+    
+      <item>
+        <title>How I got here.</title>
+        <description>&lt;p&gt;I have been meaning to write this for a long long time. I never got around to it because of lack of motivation though. Last week I was asked to speak at a session at LUMS on applying to grad schools and other university advice. It was after I had repeated what I had done to get to this point multiple times that I realized that it would be vastly more helpful to people if I actually wrote this down.&lt;/p&gt;
+
+&lt;p&gt;Treat this as a rambling story of my last two years at LUMS and what I wish I had done differently or treat it as whatever I have learnt and wish more people knew. Following this is entirely up to you.&lt;/p&gt;
+
+&lt;h2&gt; A rough timeline of events. &lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fall 2015 - Sophomore year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was advised to take Intro to AI a year earlier as it was considered an easy course and it would lessen the load fom my Junior year Fall semester.&lt;/p&gt;
+
+&lt;p&gt;In a few words, it went terribly. I was in way above my head and it made me question if I could really program or not.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Spring 2016 - Sophomore year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I took CS300 (Advanced Programming), even after the troubles with AI the previous semester. As it turned out, AP was to be one of the best courses I took in LUMS. I learnt more during this course than any other, and I have never been more focussed during any other class. Not sure which one was the cause and which one was the result.&lt;/p&gt;
+
+&lt;p&gt;It was during this semester that I approached Dr. Junaid Haroon Siddiqui for some general course advice and to ask if he had work for me during the summer. He directed me to Dr. Fareed Zaffar who told me to study the NetCentric Computing course until the end of semester.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Summer 2016.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I started working with Dr. Fareed Zaffar on different research projects. The fact that I had not taken Networks formally and the only useful skills I had were from Advanced Programming, affected the type of work I was able to do in each project. In retrospective, this was easily one of the most productive summers I have spent (iftaari at PDC was extremely bad however).&lt;/p&gt;
+
+&lt;p&gt;This was also the time when I worked on Typosquatting, the project which was to later get published in Infocom 2018 [link to paper]. I also was the Teaching Assistant for CS300 in the Summer semester.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fall 2016 - Junior year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Having seen what kind of work I had done, Dr. Fareed and Dr. Junaid advised me to start preparing for technical interviews at top industry companies. Dr. Fareed especially got multiple mock interviews scheduled and asked many of his friends to put in a referral for me in the companies (take a look at my side post on how referrals work at top tech companies). I applied, and got rejected from multiple places, including Microsoft and Facebook.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Spring 2017 - Junior year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I prepared for the interviews more and more. My courses suffered, but then again the courses weren’t that great to begin with. I took part in multiple programming competitions (teaming up with Khadija Tariq and Basit-us-salam Khan). We won the PU and FC College programming competitions.&lt;/p&gt;
+
+&lt;p&gt;I was the TA for CS300 again this semester. Along with this and the multiple mock interviews and programming competitions, I felt somewhat prepared for the technical interviews. I got a online test from Google Japan and finished that within time. In the meantime, they somehow got another application from me. I got a second online test, and even though I finished that too, I was rejected on that stage. I emailed the recruiter to ask what was happening and why I had gotten two tests. In a huge stroke of luck, I found that there had been a mess up on their part and my first application was onto the next stage; the actual technical interviews.&lt;/p&gt;
+
+&lt;p&gt;I left everything and prepared for the technical interviews at this point. There were two rounds of technical interviews over phone/video call. The day before my second interview, I gave four mock interviews. At the end I was accepted for a summer internship at Google Japan for 2017. After a quick team matching phase, I was placed into the Geo (Google Maps) Local Discovery team.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Summer 2017 - Google Internship.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My first time out of Pakistan. My first time working at a company. My first time being a Noogler.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fall 2017 - Senior year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I got a job offer from Google Japan around December 2017. I will be joining the Tokyo office in August 2018.&lt;/p&gt;
+
+&lt;h2&gt; Other thoughts (make this better) &lt;/h2&gt;
 
 </description>
-        <pubDate>Fri, 06 Jan 2017 18:08:27 +0500</pubDate>
-        <link>http://jehangir.me/blog/jekyll/update/2017/01/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://jehangir.me/blog/jekyll/update/2017/01/06/welcome-to-jekyll.html</guid>
+        <pubDate>Sun, 13 May 2018 01:16:27 +0500</pubDate>
+        <link>http://jehangir.me/blog/lums/advice/2018/05/13/how-i-got-here.html</link>
+        <guid isPermaLink="true">http://jehangir.me/blog/lums/advice/2018/05/13/how-i-got-here.html</guid>
         
         
-        <category>jekyll</category>
+        <category>blog</category>
         
-        <category>update</category>
+        <category>LUMS</category>
+        
+        <category>advice</category>
         
       </item>
     
