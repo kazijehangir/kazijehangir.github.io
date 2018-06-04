@@ -7,7 +7,11 @@ categories: LUMS advice
 
 I have been meaning to write this for a long long time. I never got around to it because of lack of motivation though. Last week I was asked to speak at a session at LUMS on applying to grad schools and other university advice. It was after I had repeated what I had done to get to this point multiple times that I realized that it would be vastly more helpful to people if I actually wrote this down. 
 
-Treat this as a rambling story of my last two years at LUMS and what I wish I had done differently or treat it as whatever I have learnt and wish more people knew. Following this is entirely up to you.
+A shoutout to my brother, Shahmir Kazi, who put in the effort and time to plan most of this. Apart from being a great mentor, he made me meet CS seniors for CS related advice. He pushed me when my motivation was low, and has been the ideal example of an older brother being useful to his siblings.
+
+Cue in a rambling story of my last two years at LUMS. 
+
+See my [other post]({% post_url 2018-06-04-what-path-should-lums-cs-undergrads-follow %}) for what path I feel LUMS CS undergrads should follow.
 
 <h2> A rough timeline of events. </h2>
 
