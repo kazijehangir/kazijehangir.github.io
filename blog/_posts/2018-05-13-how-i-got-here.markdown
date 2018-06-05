@@ -11,7 +11,7 @@ A shoutout to my brother, Shahmir Kazi, who put in the effort and time to plan m
 
 Cue in a rambling story of my last two years at LUMS. 
 
-See my [other post]({% post_url 2018-06-04-what-path-should-lums-cs-undergrads-follow %}) for what path I feel LUMS CS undergrads should follow.
+See my [other post]({% post_url 2018-06-05-what-path-should-lums-cs-undergrads-follow %}) for what path I feel LUMS CS undergrads should follow.
 
 <h2> A rough timeline of events. </h2>
 
