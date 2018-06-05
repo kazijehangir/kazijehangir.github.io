@@ -15,7 +15,7 @@ That said, I wanted to give a quick rundown of what I know about the interview p
  
  Most people will apply online to these companies and submit their resume for an automatic review process. People suggest that using a difficult to understand format (for a machine) for your resume is a bad idea. There is probably some keyword matching and some ML thrown in there. Regardless, I dont think there is much you can do to optimize your resume for this step. Make a good resume (for a human reviewer) and that should be good enough for the algorithm as well.
 
- If you can get a referral into the company, you can skip this step altogether. Take a look at my post about [how referrals work]({% post_url 2018-05-13-how-referrals-work %}) for a detailed explaination.
+ If you can get a referral into the company, you can skip this step altogether. Take a look at my post about [how referrals work]({% post_url /blog/2018-05-13-how-referrals-work %}) for a detailed explaination.
 
 - Recruiter resume screening 
 

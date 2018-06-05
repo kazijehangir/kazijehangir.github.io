@@ -6,11 +6,11 @@
 To-be-Googler. 
 &quot;I love deadlines, I like the wooshing sound they make as they go by.&quot; - Douglas Adams
 </description>
-    <link>http://jehangir.me/</link>
-    <atom:link href="http://jehangir.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jun 2018 05:58:25 +0500</pubDate>
-    <lastBuildDate>Tue, 05 Jun 2018 05:58:25 +0500</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Jun 2018 06:57:14 +0500</pubDate>
+    <lastBuildDate>Tue, 05 Jun 2018 06:57:14 +0500</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>What path should LUMS CS undergrads follow.</title>
@@ -77,9 +77,9 @@ To-be-Googler.
 &lt;p&gt;If you have worked with your Sproj supervisor for the past summer or so, they shouldn’t have much expectations from you and you can focus on the other things.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 05 Jun 2018 02:26:27 +0500</pubDate>
-        <link>http://jehangir.me/blog/lums/advice/2018/06/05/what-path-should-lums-cs-undergrads-follow.html</link>
-        <guid isPermaLink="true">http://jehangir.me/blog/lums/advice/2018/06/05/what-path-should-lums-cs-undergrads-follow.html</guid>
+        <pubDate>Tue, 05 Jun 2018 06:01:27 +0500</pubDate>
+        <link>http://localhost:4000/blog/lums/advice/2018/06/05/what-path-should-lums-cs-undergrads-follow.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lums/advice/2018/06/05/what-path-should-lums-cs-undergrads-follow.html</guid>
         
         
         <category>blog</category>
@@ -97,8 +97,8 @@ To-be-Googler.
 &lt;p&gt;&lt;a href=&quot;https://github.com/kazijehangir/bloodhub&quot;&gt;Github repo&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 May 2018 04:44:44 +0500</pubDate>
-        <link>http://jehangir.me/projects/android-app/2018/05/27/bloodhub.html</link>
-        <guid isPermaLink="true">http://jehangir.me/projects/android-app/2018/05/27/bloodhub.html</guid>
+        <link>http://localhost:4000/projects/android-app/2018/05/27/bloodhub.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/android-app/2018/05/27/bloodhub.html</guid>
         
         
         <category>projects</category>
@@ -200,8 +200,8 @@ To-be-Googler.
 &lt;p&gt;Congratulations, it is time for offer. Once a team has agreed to hire you, and you have indicated that you want to join them as well, your recruiter will discuss the offer with you. There is room for negotiations, but it depends a lot on your background and other competing offers. If you are a fresh grad with no other competing offers from a similar big company, you don’t have much room for negotiation.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 May 2018 03:50:27 +0500</pubDate>
-        <link>http://jehangir.me/blog/lums/advice/2018/05/14/how-technical-interviews-work.html</link>
-        <guid isPermaLink="true">http://jehangir.me/blog/lums/advice/2018/05/14/how-technical-interviews-work.html</guid>
+        <link>http://localhost:4000/blog/lums/advice/2018/05/14/how-technical-interviews-work.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lums/advice/2018/05/14/how-technical-interviews-work.html</guid>
         
         
         <category>blog</category>
@@ -226,8 +226,8 @@ Note the online quiz might be skipped in some circumstances, but is usually cond
 &lt;p&gt;The referral however does not mean you have easier interviews or anything like that. It just gives you a level playing field with people from prestigious universities who clear the automated step anyways.&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 May 2018 08:39:39 +0500</pubDate>
-        <link>http://jehangir.me/blog/industry/info/2018/05/13/how-referrals-work.html</link>
-        <guid isPermaLink="true">http://jehangir.me/blog/industry/info/2018/05/13/how-referrals-work.html</guid>
+        <link>http://localhost:4000/blog/industry/info/2018/05/13/how-referrals-work.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/industry/info/2018/05/13/how-referrals-work.html</guid>
         
         
         <category>blog</category>
@@ -306,8 +306,8 @@ Note the online quiz might be skipped in some circumstances, but is usually cond
 
 </description>
         <pubDate>Sun, 13 May 2018 01:16:27 +0500</pubDate>
-        <link>http://jehangir.me/blog/lums/advice/2018/05/13/how-i-got-here.html</link>
-        <guid isPermaLink="true">http://jehangir.me/blog/lums/advice/2018/05/13/how-i-got-here.html</guid>
+        <link>http://localhost:4000/blog/lums/advice/2018/05/13/how-i-got-here.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/lums/advice/2018/05/13/how-i-got-here.html</guid>
         
         
         <category>blog</category>

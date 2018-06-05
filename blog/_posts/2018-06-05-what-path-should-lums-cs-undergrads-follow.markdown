@@ -5,7 +5,7 @@ date:   2018-06-05 06:01:27 +0500
 categories: LUMS advice 
 ---
 
-After writing down [what I did to get to this point]({% post_url 2018-05-13-how-i-got-here %}), I felt I should give a rough guideline for what I feel is the ideal path for a LUMS CS undergrad (with some obvious assumptions, I cannot be naive enough to believe this will work perfectly as it is for anyone).
+After writing down [what I did to get to this point]({% post_url /blog/2018-05-13-how-i-got-here %}), I felt I should give a rough guideline for what I feel is the ideal path for a LUMS CS undergrad (with some obvious assumptions, I cannot be naive enough to believe this will work perfectly as it is for anyone).
 
 I think I should repeat the disclaimer, this is by no means a end-all-be-all guide nor a strict ruleset. It is based solely on my experiences; what I did and what I wish I did. Every person has their unique circumstances, abilities, strengths, passions, and interests. I assume the subject likes CS and is aiming for a career in this feild. 
 
