@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What path should LUMS CS undergrads follow."
-date:   2018-06-05 02:26:27 +0500
+date:   2018-06-05 06:01:27 +0500
 categories: LUMS advice 
 ---
 
