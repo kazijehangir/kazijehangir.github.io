@@ -28,7 +28,7 @@ I have been taking Japanese lessons for more than 5 months now. I am still not e
 
 I have realized that I spent roughly 40-45 hours at work; add another 10 hours each week for getting ready and getting to work, and 50 hours per week for sleep, and I still have 168 - (45+10+50) = 63 hours per week for myself. That is roughly 1.5 times the work time. I should theoretically be able to do as atleast as much productive work as a full time job, but in practice theory is rarely the same as theory, and I don't.   
 
-Such has been the story for the past 6 months. I have explained away everything with the "moving and settling into a new country" trope. I do not thing that can be valid anymore. 
+Such has been the story for the past 6 months. I have explained away everything with the "moving and settling into a new country" trope. I do not think that can be valid anymore. 
 
 I would like to believe this is all getting better. I have been focussing on being more active in my career and my regular work. I am also tracking my time and trying to be more personally accountable for it. I have made a couple of attempts to have certain tasks and side projects which give me a reason to learn a skill and improve on it. I have also started enjoying Tokyo as a great place to live in, by trying new cuisines and restuarants and generally being more willing to try new things. 
 
