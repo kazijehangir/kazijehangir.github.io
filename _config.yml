@@ -1,27 +1,35 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: The Curly Haired Guide to Curiosity
-email: kazijehangir@gmail.com # change this when private email is feasible.
-description: > # this means to ignore newlines until "baseurl:"
-  Jehangir Kazi. A pretty big head and some thoughts to fill it.
-  \n
-  Googler. 
-  \n
-  "I love deadlines, I like the wooshing sound they make as they go by."
-  - Douglas Adams
-
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jehangir.me" # the base hostname & protocol for your site
-twitter_username: jehangir_kazi
-github_username:  kazijehangir
+url: "https://jehangirkazi.com" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
 
-theme: jekyll-theme-cayman
+paginate: 5
+paginate_path: "/page/:num"
+
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
