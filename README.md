@@ -1,4 +1,9 @@
+# Jekyll based static blog served on Github Pages
+
+## Appendix
+
 Zolan - Modern & Minimal Theme for Jekyll
+
 ======
 Zolan is a minimal blog theme for Jekyll.
 
@@ -146,25 +151,3 @@ You can find the current favicon (favicon.ico) inside the theme root directory, 
 
 * * *
 
-### Credits
-
-I have used the following scripts, fonts or other files as listed.
-
-*   [Google Fonts](https://fonts.google.com/specimen/Nunito) (Roboto, Sans Serif).
-*   [Ionicons Icons](https://ionicons.com/)
-*   [FitVids.js](http://fitvidsjs.com/)
-*   [Medium’s Image Zoom](https://github.com/fat/zoom.js)
-*   [Instafeed.js](http://instafeedjs.com/)
-*   [jQuery.com](https://jquery.com/)
-*   Preview Images form [unsplash.com](https://unsplash.com/), [pexels.com](https://www.pexels.com/)
-
-* * *
-### License
-
-Mit License
-
-* * *
-
-### Support
-<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
-<p align="center"><b>Thank you for your support ❤️</b></p>
