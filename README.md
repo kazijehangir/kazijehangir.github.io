@@ -1,4 +1,4 @@
-# Jekyll based static blog served on Github Pages
+# Testing JextJS based static blog served on Github Pages
 
 ## Appendix
 
