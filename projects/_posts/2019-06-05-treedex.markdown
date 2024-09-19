@@ -1,9 +1,0 @@
----
-layout: post
-title:  "TreeDex"
-date:   2018-06-05 07:00:44 +0500
-categories: android-app react-native
----
-This was my semester project for CS360: Software Engineering. We created a cross-platform app in react-native to serve as a horticulture guide in an interactive way.
-
-[Github repo](https://github.com/kazijehangir/treedex)
